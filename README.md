@@ -25,7 +25,7 @@ It showcases my projects, skills, and provides links to live demos and GitHub re
 
 ## 📸 Screenshots
 ![To-Do App](images/todolist.png)
-![Calculator App](images/calculator.png)
+![Calculator App](images/Calculator.png)
 
 ---
 
